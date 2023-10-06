@@ -1,5 +1,5 @@
 /* Sets the background image */
-body {
+html {
   background-image: url('../images/bg.png/');
 }
 
